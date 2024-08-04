@@ -5,3 +5,5 @@ This is a proof of concept project with implementation of following techniques:
 2.) Least Significant Bit: Hide data within an image by changing the least significant bit of every pixel and storing information inside the picture.
 
 3.) Steganography: Hide material inside the image file by storing the bits at the end of the file sequence. 
+
+This project was built with the help of python libraries and documentation
